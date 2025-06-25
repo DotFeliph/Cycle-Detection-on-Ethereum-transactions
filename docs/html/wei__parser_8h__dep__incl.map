@@ -1,7 +1,0 @@
-<map id="src/wei_parser.h" name="src/wei_parser.h">
-<area shape="rect" id="node1" title="Defines the interface for an optimized Wei value parser." alt="" coords="113,5,239,32"/>
-<area shape="rect" id="node2" href="$graph_8h.html" title="Defines graph data structures and related function prototypes." alt="" coords="62,80,157,107"/>
-<area shape="rect" id="node5" href="$wei__parser_8c.html" title="Implementation of the optimized Wei value parser." alt="" coords="181,80,307,107"/>
-<area shape="rect" id="node3" href="$graph_8c.html" title="Implementation of graph data structures and algorithms." alt="" coords="5,155,99,181"/>
-<area shape="rect" id="node4" href="$main_8c.html" title="Main entry point for the graph cycle detection program." alt="" coords="123,155,213,181"/>
-</map>

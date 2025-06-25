@@ -1,9 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node1" title="The main function and entry point of the program." alt="" coords="5,132,60,159"/>
-<area shape="rect" id="node2" href="$group__graph__logic.html#gad21d6458cbfeb3bd8e30e969cb1c743d" title="A logging function that does nothing (silent mode)." alt="" coords="151,5,236,32"/>
-<area shape="rect" id="node3" href="$group__graph__logic.html#gae4512acfb15ecef34e99a0205fc792dc" title="A logging function that prints messages to stdout." alt="" coords="143,56,244,83"/>
-<area shape="rect" id="node4" href="$group__cli__parser.html#ga2170eeee274321b37ba572f9168f2400" title="Determines the output filename." alt="" coords="108,107,279,133"/>
-<area shape="rect" id="node5" href="$group__cli__parser.html#ga4f3b9b5be000a4bcf4d682bf48b17857" title="Parses the command&#45;line arguments and populates the CLIOptions struct." alt="" coords="136,157,251,184"/>
-<area shape="rect" id="node6" href="$group__cli__parser.html#gaeda2a88e4257e28c07eb2d76be913049" title="Prints the detailed help/usage message to stdout." alt="" coords="327,183,425,209"/>
-<area shape="rect" id="node7" href="$group__cli__parser.html#ga2b871b1220987cca1b4c73b6a9dcb51e" title="Prints a short usage message to stdout." alt="" coords="130,259,257,285"/>
-</map>

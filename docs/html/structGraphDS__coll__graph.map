@@ -1,4 +1,0 @@
-<map id="GraphDS" name="GraphDS">
-<area shape="rect" id="node1" title="The main graph data structure using an adjacency list." alt="" coords="14,95,93,121"/>
-<area shape="rect" id="node2" href="$structTransaction.html" title="A node in the adjacency list, representing a directed edge in the graph." alt="" coords="5,5,101,32"/>
-</map>

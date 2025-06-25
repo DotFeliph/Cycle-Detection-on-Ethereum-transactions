@@ -1,7 +1,0 @@
-var searchData=
-[
-  ['tail_0',['tail',['../structUT__hash__table.html#a00a889a5e1ebaeec0a83ec2701df1992',1,'UT_hash_table']]],
-  ['tbl_1',['tbl',['../structUT__hash__handle.html#ad2035ee3b2aa55b22e352341372a5e73',1,'UT_hash_handle']]],
-  ['transactionamount_2',['transactionAmount',['../structLogInfo__t.html#a1d8f09e7e012de1e3da8415e6feeb040',1,'LogInfo_t']]],
-  ['transactionvalue_3',['transactionValue',['../structtransaction.html#acb81fda61a2f6b3129f5191210626cdd',1,'transaction']]]
-];

@@ -1,4 +1,0 @@
-<map id="initGraph" name="initGraph">
-<area shape="rect" id="node1" title="Initializes a graph with V vertices." alt="" coords="143,5,225,32"/>
-<area shape="rect" id="node2" href="$group__graph__logic.html#gaa0debe332734f198caabcfc89d392d5e" title="Loads a graph from a file." alt="" coords="5,5,95,32"/>
-</map>
