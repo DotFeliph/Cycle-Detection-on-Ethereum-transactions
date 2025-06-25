@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)![License](https://img.shields.io/badge/License-MIT-yellow.svg)![Docs](https://img.shields.io/badge/Docs-Doxygen-green.svg)
 
-Projeto desenvolvido para a disciplina de Teoria dos Grafos, focado na detecção de ciclos em um conjunto de dados de transações da blockchain Ethereum.
+Projeto desenvolvido para a disciplina de Estrutura de Dados II, focado na detecção de ciclos em um conjunto de dados de transações da blockchain Ethereum.
 
 ## Tabela de Conteúdos
 
