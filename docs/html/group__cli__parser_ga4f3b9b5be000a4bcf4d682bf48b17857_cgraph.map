@@ -1,0 +1,4 @@
+<map id="parse_cli_args" name="parse_cli_args">
+<area shape="rect" id="node1" title="Parses the command&#45;line arguments and populates the CLIOptions struct." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$group__cli__parser.html#gaeda2a88e4257e28c07eb2d76be913049" title="Prints the detailed help/usage message to stdout." alt="" coords="168,5,267,32"/>
+</map>

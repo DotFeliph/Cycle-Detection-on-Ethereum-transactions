@@ -1,0 +1,4 @@
+<map id="addAllVertexToHashmap" name="addAllVertexToHashmap">
+<area shape="rect" id="node1" title="Fills the hash map with all unique vertices from a file." alt="" coords="143,5,324,32"/>
+<area shape="rect" id="node2" href="$group__graph__logic.html#gaa0debe332734f198caabcfc89d392d5e" title="Loads a graph from a file." alt="" coords="5,5,95,32"/>
+</map>

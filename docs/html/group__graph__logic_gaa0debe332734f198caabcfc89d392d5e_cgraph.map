@@ -1,0 +1,6 @@
+<map id="loadGraph" name="loadGraph">
+<area shape="rect" id="node1" title="Loads a graph from a file." alt="" coords="5,56,95,83"/>
+<area shape="rect" id="node2" href="$group__graph__logic.html#ga3d789cd28c9b5939591a206c243ce3df" title="Fills the hash map with all unique vertices from a file." alt="" coords="143,5,324,32"/>
+<area shape="rect" id="node3" href="$group__graph__logic.html#ga214c7f3d4d6c41c640f4bd7e5146b190" title="Initializes a graph with V vertices." alt="" coords="192,56,275,83"/>
+<area shape="rect" id="node4" href="$group__wei__parser.html#ga60e297e4ba3cd8925546d963f9a4017e" title="Allocates and initializes the context required for the parser." alt="" coords="152,107,315,133"/>
+</map>

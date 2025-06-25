@@ -1,0 +1,5 @@
+<map id="src/graph.h" name="src/graph.h">
+<area shape="rect" id="node1" title="Defines graph data structures and related function prototypes." alt="" coords="62,5,157,32"/>
+<area shape="rect" id="node2" href="$graph_8c.html" title="Implementation of graph data structures and algorithms." alt="" coords="5,80,99,107"/>
+<area shape="rect" id="node3" href="$main_8c.html" title="Main entry point for the graph cycle detection program." alt="" coords="123,80,213,107"/>
+</map>

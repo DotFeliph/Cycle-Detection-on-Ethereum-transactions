@@ -1,0 +1,17 @@
+<map id="src/main.c" name="src/main.c">
+<area shape="rect" id="node1" title="Main entry point for the graph cycle detection program." alt="" coords="428,5,517,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,73,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="129,229,195,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="461,229,532,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="751,229,821,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="797,80,861,107"/>
+<area shape="rect" id="node7" href="$cli__parser_8h.html" title="Defines the structures and functions for parsing command&#45;line arguments." alt="" coords="885,80,981,107"/>
+<area shape="rect" id="node9" href="$graph_8h.html" title="Defines graph data structures and related function prototypes." alt="" coords="437,80,508,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="891,155,974,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="289,229,352,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="429,155,516,181"/>
+<area shape="rect" id="node12" title=" " alt="" coords="557,229,631,256"/>
+<area shape="rect" id="node13" href="$uthash_8h.html" title=" " alt="" coords="643,155,721,181"/>
+<area shape="rect" id="node15" href="$wei__parser_8h.html" title="Defines the interface for an optimized Wei value parser." alt="" coords="199,155,303,181"/>
+<area shape="rect" id="node14" title=" " alt="" coords="656,229,727,256"/>
+</map>
