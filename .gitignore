@@ -1,0 +1,13 @@
+/list_implementation/build/
+/list_implementation/main
+/list_implementation/docs/
+
+
+*.txt
+*.csv
+!flags.txt
+*.out
+*.o
+*.csv
+*.txt
+*.dat
