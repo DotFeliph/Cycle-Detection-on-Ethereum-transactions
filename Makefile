@@ -10,9 +10,8 @@ SRCS      := $(addprefix $(SRC_DIR)/, $(SRC_NAMES))
 OBJS      := $(patsubst %.c,$(BUILD_DIR)/%.o,$(SRC_NAMES))
 BIN       := main
 
-.
-.PHONY: all clean docs
 
+.PHONY: all clean docs
 
 all: $(BIN)
 
